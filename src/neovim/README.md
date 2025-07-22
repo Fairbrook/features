@@ -1,3 +1,4 @@
+
 # Neovim (neovim)
 
 Donwload neovim from GitHub releases page
@@ -6,7 +7,7 @@ Donwload neovim from GitHub releases page
 
 ```json
 "features": {
-    "ghcr.io/alanfzf/features/neovim:1": {}
+    "ghcr.io/Fairbrook/features/neovim:1": {}
 }
 ```
 
@@ -20,4 +21,4 @@ Donwload neovim from GitHub releases page
 
 ---
 
-_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/alanfzf/features/blob/main/src/neovim/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._
+_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/Fairbrook/features/blob/main/src/neovim/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._
